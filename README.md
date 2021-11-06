@@ -1,7 +1,7 @@
 # MotoAlarm #
 
 Projekt alarmu do motocykla\
-W momencie wykrycia zmiany położenia wykonuje połączenie telefonicze\
+W momencie wykrycia zmiany położenia wykonuje połączenie telefoniczne\
 Zarządzany komendami sms oraz zasilany powerbankiem
 
 ### Użyte podzespoły ###
