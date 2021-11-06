@@ -1,6 +1,8 @@
 # MotoAlarm #
 
-Projekt alarmu do motocykla wysyłający wiadomości sms w momencie wykrycia zmiany położenia, zasilany powerbankiem
+Projekt alarmu do motocykla\
+W momencie wykrycia zmiany położenia wykonuje połączenie telefonicze\
+Zarządzany komendami sms oraz zasilany powerbankiem
 
 ### Użyte podzespoły ###
 
