@@ -1,15 +1,16 @@
 # MotoAlarm #
 
-Projekt alarmu do motocykla\
-W momencie wykrycia zmiany położenia wykonuje połączenie telefoniczne\
-Zarządzany komendami sms oraz zasilany powerbankiem
+Motorcycle alarm design\
+After change position it make phone call\
+Managed by SMS commands and powered by a powerbank
 
-### Użyte podzespoły ###
+## Components
 
 * Arduino Nano
-* Przetwornica LM2596
-* Moduł SIM800L
-* Kondensator 1000uf
-* 3-Osiowy Akcelerometr i Żyroskop I2C MPU-6050 
+* Boost Converter LM2596
+* SIM800L module
+* Capacitor 1000uf
+* 3-Axis Accelerometer and Gyroscope I2C MPU-6050
 
-![MotoAlarm](https://user-images.githubusercontent.com/35919087/139311320-1f29ab61-87db-46ee-8190-13047c082c25.png)
+## Device schema
+![MotoAlarm](https://user-images.githubusercontent.com/35919087/205516365-24ba7d95-e0a2-43a4-a332-24dbeae9e3c0.png)
