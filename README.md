@@ -13,4 +13,4 @@ Managed by SMS commands and powered by a powerbank
 * 3-Axis Accelerometer and Gyroscope I2C MPU-6050
 
 ## Device schema
-![MotoAlarm](https://user-images.githubusercontent.com/35919087/205516365-24ba7d95-e0a2-43a4-a332-24dbeae9e3c0.png)
+![MotoAlarm](https://user-images.githubusercontent.com/35919087/205517093-244b2d46-bb00-4f06-b998-678eba27bbbe.png)
